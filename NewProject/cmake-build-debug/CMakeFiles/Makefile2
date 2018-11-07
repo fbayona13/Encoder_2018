@@ -44,19 +44,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2018.1.5\bin\cmake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2018.1.5\bin\cmake\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\juanp\Desktop\a\NewProject
+CMAKE_SOURCE_DIR = D:\Users\Usuario\Desktop\Encoder_2018\NewProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\juanp\Desktop\a\NewProject\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Users\Usuario\Desktop\Encoder_2018\NewProject\cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/NewProject.dir
@@ -65,7 +65,7 @@ CMAKE_BINARY_DIR = C:\Users\juanp\Desktop\a\NewProject\cmake-build-debug
 CMakeFiles/NewProject.dir/all:
 	$(MAKE) -f CMakeFiles\NewProject.dir\build.make CMakeFiles/NewProject.dir/depend
 	$(MAKE) -f CMakeFiles\NewProject.dir\build.make CMakeFiles/NewProject.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\juanp\Desktop\a\NewProject\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target NewProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Users\Usuario\Desktop\Encoder_2018\NewProject\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target NewProject"
 .PHONY : CMakeFiles/NewProject.dir/all
 
 # Include target in all.
@@ -75,9 +75,9 @@ all: CMakeFiles/NewProject.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NewProject.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\juanp\Desktop\a\NewProject\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Users\Usuario\Desktop\Encoder_2018\NewProject\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/NewProject.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\juanp\Desktop\a\NewProject\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Users\Usuario\Desktop\Encoder_2018\NewProject\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/NewProject.dir/rule
 
 # Convenience name for target.

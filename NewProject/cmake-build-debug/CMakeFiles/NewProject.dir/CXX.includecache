@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/juanp/Desktop/a/NewProject/main.cpp
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/codifica.cpp
 iostream
 -
 string
@@ -15,4 +15,20 @@ fstream
 -
 stdlib.h
 -
+codifica.h
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/codifica.h
+
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/codifica.h
+
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+stdlib.h
+-
+codifica.cpp
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/codifica.cpp
 

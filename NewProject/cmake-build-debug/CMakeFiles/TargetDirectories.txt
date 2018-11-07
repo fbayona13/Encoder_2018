@@ -1,3 +1,3 @@
-C:/Users/juanp/Desktop/a/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir
-C:/Users/juanp/Desktop/a/NewProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/juanp/Desktop/a/NewProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Usuario/Desktop/Encoder_2018/NewProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
