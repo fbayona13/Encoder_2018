@@ -12,7 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e97912c-dec8-485d-8762-e677e6ba77b8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Encoder_2018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NewProject/codifica.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NewProject/codifica.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeCache.txt" afterDir="false" />
@@ -25,16 +34,15 @@
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/main.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/NewProject.dir/objects.a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NewProject/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/NewProject/cmake-build-debug/Makefile" afterDir="false" />
@@ -65,7 +73,7 @@
       <file leaf-file-name="codifica.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NewProject/codifica.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
+            <state relative-caret-position="1887">
               <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
               <folding>
                 <element signature="e#43#62#0" expanded="true" />
@@ -173,16 +181,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541450332743</updated>
-      <workItem from="1541450338925" duration="2550000" />
+      <workItem from="1541450338925" duration="2857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2550000" />
+    <option name="totallyTimeSpent" value="2857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13318452" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -237,7 +244,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NewProject/codifica.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
+        <state relative-caret-position="1887">
           <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
           <folding>
             <element signature="e#43#62#0" expanded="true" />

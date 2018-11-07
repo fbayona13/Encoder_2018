@@ -6,7 +6,7 @@
 #include <fstream>
 #include <stdlib.h>
 #include "codifica.h"
-
+using namespace std;
 
 
 void codifica::Lectura(int i) {
