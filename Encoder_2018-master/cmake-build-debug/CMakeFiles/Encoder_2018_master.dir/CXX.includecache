@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/NodoDic_1.h
+
 C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/codifica.cpp
 iostream
 -
@@ -17,12 +19,16 @@ cstdlib
 -
 cstring
 -
-codifica.h
-C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/codifica.h
 sstream
 -
+codifica.h
+C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/codifica.h
+NodoDic_1.h
+C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/NodoDic_1.h
 
 C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/codifica.h
+NodoDic_1.h
+C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/NodoDic_1.h
 
 C:/Users/juanp/Desktop/a/Encoder_2018-master/Encoder_2018-master/NewProject/main.cpp
 iostream

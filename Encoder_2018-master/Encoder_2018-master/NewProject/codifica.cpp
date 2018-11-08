@@ -139,11 +139,17 @@ void codifica::Error(int K) {
     };
 };
 
-void  codifica::ObtencionMen() {
+void  codifica::ObtencionMen() {            //Obtiene palabra por palabra el Mensaje
     cout << "Cargando el mensaje al codificador por favor espere ..." << endl;
-    while (!Dic.eof()) {
-
+    while (!Men.eof()) {
+        Men >> Texto_3_Men ;
+        Long_3_Men = strlen( Texto_3_Men );
+        Numeracion_Men();
     }
+    cout << "Gracias por esperar, ya hemos cargado el mensaje al programa" << endl;
+    cout << "Presione ENTER para voler a opcciones " << endl;
+    system("pause");
+    Opciones();
 }
 
 void codifica::ObtencionDic() {            //Obtiene las palabras del Dic por columna
@@ -152,7 +158,7 @@ void codifica::ObtencionDic() {            //Obtiene las palabras del Dic por co
             Dic >> Texto_1 >> Texto_2;
             Long_1 = strlen(Texto_1);
             Long_2 = strlen(Texto_2);
-            Numeracion();
+            Numeracion_Dic();
         }
     cout << "Gracias por esperar, ya hemos cargado el diccionario al programa" << endl;
     cout << "Presione ENTER para voler a opcciones " << endl;
@@ -160,11 +166,25 @@ void codifica::ObtencionDic() {            //Obtiene las palabras del Dic por co
     Opciones();
 };
 
-void codifica::Numeracion() {               //Genera un numero a partir de los caracteres de la palabra
-    string Codigo_1, Codigo_2;
-    int Codigo_1_int , Codigo_2_int;
-    int Cod;
-    string Cod_String;
+void codifica::Numeracion_Men() {               //Genera un numero a partir de los caracteres de la palabra ingresada del mensaje
+    string Cod_String, Codigo_1;
+    int Codigo_1_int, Cod;
+        for (int i = 0 ; i < Long_1 ; i++){
+            Cod = Texto_1[i];
+            Cod_String = to_string(Cod);
+            Codigo_1 = Codigo_1 + Cod_String;
+            Codigo_1_int = atoi(Codigo_1.c_str());
+        };
+        if (Codigo_1_int < 0){
+            Codigo_1_int = Codigo_1_int * (-1);
+        }
+
+}
+
+void codifica::Numeracion_Dic() {               //Genera un numero a partir de los caracteres de la palabra por cada columna del diccionario
+    string Codigo_1, Codigo_2, Cod_String;
+    int Codigo_1_int, Codigo_2_int, Cod;
+
         for (int i = 0 ; i < Long_1 ; i++){
             Cod = Texto_1[i];
             Cod_String = to_string(Cod);

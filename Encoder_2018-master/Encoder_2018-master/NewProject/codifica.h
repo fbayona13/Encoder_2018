@@ -18,8 +18,8 @@ private:
 
 protected:
 
-    char Texto_1[20] , Texto_2[20];
-    int Long_1 , Long_2;
+    char Texto_1[20] , Texto_2[20] , Texto_3_Men[20];
+    int Long_1 , Long_2 , Long_3_Men;
 
 
 public:
@@ -33,7 +33,8 @@ public:
     void ObtencionMen();
     void SetDireccion();
     void SetFile(int);
-    void Numeracion ();
+    void Numeracion_Dic ();
+    void Numeracion_Men();
 };
 
 

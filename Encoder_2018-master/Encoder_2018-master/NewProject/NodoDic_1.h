@@ -16,7 +16,7 @@ public:
 
 
 
-    NodoDic_1(_T d) {
+    NodoDic_1(T d) {
         izq = nullptr;
         der = nullptr;
         Codigo = d;
