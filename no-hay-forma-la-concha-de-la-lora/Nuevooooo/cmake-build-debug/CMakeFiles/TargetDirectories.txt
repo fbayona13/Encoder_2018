@@ -1,0 +1,3 @@
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/cmake-build-debug/CMakeFiles/Nuevooooo.dir
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

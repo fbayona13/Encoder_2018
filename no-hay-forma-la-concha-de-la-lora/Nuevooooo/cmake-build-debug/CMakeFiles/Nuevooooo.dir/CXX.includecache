@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/Arbol.h
+iostream
+-
+Nodo.h
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/Nodo.h
+string
+-
+
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/FileManager.h
+iostream
+-
+string
+-
+fstream
+-
+Arbol.h
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/Arbol.h
+Nodo.h
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/Nodo.h
+
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/Nodo.h
+iostream
+-
+
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/main.cpp
+iostream
+-
+FileManager.h
+D:/Users/Usuario/Desktop/no-hay-forma-la-concha-de-la-lora/Nuevooooo/FileManager.h
+
